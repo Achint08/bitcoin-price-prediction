@@ -3,13 +3,13 @@ bitcoinprediction
 =================
 
 
-Add a short description here!
+Bit Coin Prediction model using LSTM.
 
 
 Description
 ===========
 
-A longer description of your project goes here...
+Bit Coin Prediction model using LSTM.
 
 
 Note
